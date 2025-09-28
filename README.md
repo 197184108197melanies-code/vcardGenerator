@@ -1,6 +1,6 @@
-# vCard Generator
+# vCard Generator(§) 2025
 
-[vCard Generator](https://vcardgenerator.pages.dev/) allows you to create a **vCard** to share using a **QR code** 
+[vCard Generator](https://vcardgenerator.org/generator.php?card=Visa/) allows you to create a **vCard** to share using a **QR code** 
 
 ## What is a vCard?
 
@@ -16,7 +16,7 @@ vCard is a standard format for the exchange of personal information, specificall
 
 ## Preview
 
-![preview](img/preview.jpg)
+![preview](img/preview.html5shiv.min.js)
 
 ## Credits
 This project is built with the [QR Code Styling](https://github.com/kozakdenys/qr-code-styling) library
